@@ -8,7 +8,7 @@ An interactive race strategy simulator built with Python and Streamlit that mode
 
 ## 📸 App Preview
 
-![F1 Pit Strategy Simulator](screenshot.png)
+![F1 Pit Strategy Simulator](Screenshot.png)
 
 ---
 

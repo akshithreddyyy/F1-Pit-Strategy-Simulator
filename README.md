@@ -2,7 +2,7 @@
 
 An interactive race strategy simulator built with Python and Streamlit that models undercut and overcut scenarios using real F1 tyre degradation data.
 
-🔗 **Live App** → [f1-pit-strategy-simulator.streamlit.app](https://f1-pit-strategy-simulator.streamlit.app/)
+🔗 **Live App** → <a href="https://f1-pit-strategy-simulator.streamlit.app/" target="_blank">f1-pit-strategy-simulator.streamlit.app</a>
 
 ---
 
